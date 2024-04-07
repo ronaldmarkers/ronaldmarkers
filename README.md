@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://ronaldmarkers.github.io/RGV_MSOC/index.html#home">
-    <img src="https://ronaldmarkers.github.io/RGV_MSOC/Images/logo.png" />
+    <img src="https://ronaldmarkers.github.io/RGV_MSOC/Images/logo.png" style="height: 50px" />
   </a>&nbsp;&nbsp;
   
 </p>
@@ -18,4 +18,4 @@
 - 🇼 I was accepted into the SMALL-REU Program at William's College and will have code based on that project in the future
 - 🤔 So far I have animations/projects worked on in manim, and have recently made the MSOC website
 - 💬 Give me any comments critiques or ideas for the MSOC website if you can!!
-- 📫 Reach me at raul.marquez02@utrgv.edu
+- 📫 Reach me at raul.marq@yahoo.com
