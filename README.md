@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/raulm3672/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://ronaldmarkers.github.io/RGV_MSOC/index.html#home">
-    <img src="https://ronaldmarkers.github.io/RGV_MSOC/Images/logo.png" style="height: 30px" />
+  <a href="https://msocutrgv.com">
+    <img src="https://ronaldmarkers.github.io/RGV_MSOC/media/images/logo.png" style="height: 30px" />
   </a>&nbsp;&nbsp;
   
 </p>
