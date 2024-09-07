@@ -15,7 +15,7 @@
 </p>
 
 - ➗Recently, I've been studying Elliptic Curves, L-Functions, and Galois Theory
-- 🇼 I was accepted into the SMALL-REU Program at William's College and will have code based on that project in the future
+- 🇼 I'll be planning on coding projects relating to number theory and algebra in the future
 - 🤔 So far I have animations/projects worked on in manim, and have recently made the MSOC website
 - 💬 Give me any comments critiques or ideas for the MSOC website if you can!!
 - 📫 Reach me at raul.marq@yahoo.com
